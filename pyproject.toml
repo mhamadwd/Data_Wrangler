@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "data-wrangler"
+version = "0.1.0"
+description = "A desktop application for cleaning and merging CSV files"
+authors = ["Mohamad W. <mohamad@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.0"
+chardet = "^5.0.0"
+openpyxl = "^3.1.0"
+pyarrow = "^12.0.0"
+pydantic = "^2.0.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.0.0"
+ruff = "^0.1.0"
+pytest = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.ruff]
+target-version = "py311"
+line-length = 88
+select = ["E", "F", "W", "C90", "I", "N", "UP", "YTT", "S", "BLE", "FBT", "B", "A", "COM", "C4", "DTZ", "T10", "EM", "EXE", "FA", "ISC", "ICN", "G", "INP", "PIE", "T20", "PYI", "PT", "Q", "RSE", "RET", "SLF", "SLOT", "SIM", "TID", "TCH", "INT", "ARG", "PTH", "TD", "FIX", "ERA", "PD", "PGH", "PL", "TRY", "FLY", "NPY", "AIR", "PERF"]
+ignore = ["E501", "W503", "S101", "PLR0913", "PLR0912", "PLR0915"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]

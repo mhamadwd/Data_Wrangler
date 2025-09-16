@@ -1,0 +1,11 @@
+Customer ID,First Name,Last Name,Email,Phone,Registration Date,Status,Total Orders
+C001,John,Doe,john.doe@email.com,555-0101,2023-01-15,Active,25
+C002,Jane,Smith,jane.smith@email.com,555-0102,2023-02-20,Active,18
+C003,Bob,Johnson,bob.johnson@email.com,555-0103,2023-01-10,Inactive,5
+C004,Alice,Williams,alice.williams@email.com,555-0104,2023-03-05,Active,32
+C005,Charlie,Brown,charlie.brown@email.com,555-0105,2023-02-28,Active,12
+C006,Diana,Wilson,diana.wilson@email.com,555-0106,2023-01-25,Inactive,8
+C007,Frank,Miller,frank.miller@email.com,555-0107,2023-03-15,Active,45
+C008,Grace,Davis,grace.davis@email.com,555-0108,2023-02-10,Active,22
+C009,Henry,Garcia,henry.garcia@email.com,555-0109,2023-01-30,Inactive,3
+C010,Iris,Martinez,iris.martinez@email.com,555-0110,2023-03-20,Active,28

@@ -1,0 +1,16 @@
+Product ID,Product Name,Category,Price,Stock Quantity,Supplier,Last Updated
+P001,Laptop,Electronics,999.99,50,TechCorp,2023-01-01
+P002,Mouse,Accessories,25.50,200,AccessoryInc,2023-01-02
+P003,Keyboard,Accessories,75.00,150,AccessoryInc,2023-01-03
+P004,Monitor,Electronics,299.99,75,DisplayPro,2023-01-04
+P005,Headphones,Accessories,150.00,100,AudioTech,2023-01-05
+P006,Tablet,Electronics,399.99,60,TabletCo,2023-01-06
+P007,Phone,Electronics,699.99,80,MobileCorp,2023-01-07
+P008,Charger,Accessories,19.99,300,PowerSupply,2023-01-08
+P009,Case,Accessories,29.99,250,ProtectPro,2023-01-09
+P010,Stand,Accessories,49.99,120,ErgoDesk,2023-01-10
+P011,Screen Protector,Accessories,12.99,500,ProtectPro,2023-01-11
+P012,Cable,Accessories,9.99,400,ConnectCorp,2023-01-12
+P013,Adapter,Accessories,35.00,180,ConnectCorp,2023-01-13
+P014,Hub,Accessories,79.99,90,ConnectCorp,2023-01-14
+P015,Speaker,Accessories,199.99,70,AudioTech,2023-01-15

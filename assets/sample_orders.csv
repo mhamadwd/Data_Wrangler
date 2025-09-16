@@ -1,0 +1,16 @@
+Order ID,Customer ID,Product,Quantity,Unit Price,Order Date,Status
+O001,C001,Laptop,1,999.99,2023-01-16,Completed
+O002,C002,Mouse,2,25.50,2023-02-21,Completed
+O003,C001,Keyboard,1,75.00,2023-01-20,Completed
+O004,C004,Monitor,1,299.99,2023-03-06,Completed
+O005,C002,Headphones,1,150.00,2023-02-25,Completed
+O006,C005,Tablet,1,399.99,2023-03-01,Completed
+O007,C007,Phone,2,699.99,2023-03-16,Completed
+O008,C008,Charger,3,19.99,2023-02-15,Completed
+O009,C001,Case,1,29.99,2023-01-30,Completed
+O010,C010,Stand,1,49.99,2023-03-21,Completed
+O011,C003,Screen Protector,2,12.99,2023-01-15,Completed
+O012,C006,Cable,5,9.99,2023-01-28,Completed
+O013,C009,Adapter,1,35.00,2023-02-05,Completed
+O014,C004,Hub,1,79.99,2023-03-10,Completed
+O015,C007,Speaker,1,199.99,2023-03-18,Completed
